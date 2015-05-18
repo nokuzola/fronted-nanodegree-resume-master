@@ -1,0 +1,4 @@
+
+var awesomeThoughts = "i am Zola and i am AWESOME!!";
+console.log(awesomeThoughts);
+
